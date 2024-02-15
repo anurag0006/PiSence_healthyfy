@@ -18,8 +18,8 @@ const About = () => {
             </p>                                              
         </div>
         <div className="mt-[10px] flex gap-[20px] ">
-            <Button text="Contact Us" border="border-2 border-black" hover="hover:bg-black hover:text-white"  />
-            <Button text="Read More" textColor="text-white" bgColor="bg-green-600" hover="hover:bg-black hover:text-white"/>
+            <Button text="Read More" border="border-2 border-black" hover="hover:bg-black hover:text-white"  />
+            <Button text="Contact Us" textColor="text-white" bgColor="bg-green-600" hover="hover:bg-black hover:text-white"/>
         </div>
        </div>
     </div>  
