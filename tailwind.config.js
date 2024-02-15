@@ -6,7 +6,14 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily:{
+        custom:['Playfair Display']
+      },
+     backgroundColor:{
+      'custom-green':'#579b03',
+     }
+    },
   },
   plugins: [],
 }

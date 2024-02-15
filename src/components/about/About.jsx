@@ -12,7 +12,7 @@ const About = () => {
        <div className="flex pt-[100px] flex-col gap-[20px]">
        <div className="flex flex-col gap-[20px] w-[500px]">
             <span className="text-lg text-green-500"> About Healthyfy&copy;</span>
-            <h1 className="text-3xl font-semibold">Welcome To Healthyfy&copy;</h1>
+            <h1 className="text-4xl font-custom">Welcome To Healthyfy&copy;</h1>
             <p className="pt-[10px]">
             Hi, I’m Dietician Dr Sheenu Sanjeev. As you’ve seen above in my achievement section, I have been honoured as the Best Dietician and Nutritionist in Delhi NCR. My goal here is to help you take the first step towards a healthy lifestyle. It is not just about looking good but feeling good too; by feeling light and energetic (Although, no harm in getting both, right?). You cannot put a price on that level of confidence that you achieve, once you feel lighter and fitter. It’s a priceless feeling, as described by over 16,000 of my clients. My mission is to educate, counsel, and motivate people from Depression to Inspiration with my secret recipe: GHAR KA KHANA!
             </p>                                              
